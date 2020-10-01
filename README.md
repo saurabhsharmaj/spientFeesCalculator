@@ -1,2 +1,2 @@
-spientFeesCalculator
+Spient Fees Calculator
 ====================
