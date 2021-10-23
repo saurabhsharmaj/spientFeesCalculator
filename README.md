@@ -1,2 +1,2 @@
-spientFeesCalculator
+SpientFeesCalculator
 ====================
